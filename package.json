@@ -6,9 +6,18 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@types/react-beautiful-dnd": "^13.1.8",
+    "ajv": "^8.17.1",
     "react": "^18.3.1",
+    "react-arrow": "^2.2.1",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "^18.3.1",
+    "react-modal": "^3.16.1",
+    "react-resizable": "^3.0.5",
     "react-scripts": "5.0.1",
+    "react-scrollbars-custom": "^4.1.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
   }
 }
